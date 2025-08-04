@@ -1,12 +1,46 @@
-# React + Vite
+# 🎓 Subject & CGPA Management (ReactJS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully frontend React-based application that allows students to manage their subjects and track CGPA using dynamic grading and credit hour calculations — built without any backend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add / Edit / Delete Subjects
+- ✅ Track Credit Hours & Instructor Details
+- ✅ Assign Grades to Subjects
+- ✅ Real-Time CGPA Calculation
+- ✅ Fully Handled with React State (No Backend)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## 🔗 Live Demo
+
+👉 [Click here to view the live project](https://your-deployment-link.com)
+
+>
+
+---
+
+## 🧠 How It Works
+
+1. User fills a form to add a subject (name, code, credit hours, instructor).
+2. The subject appears in a dynamic list with Edit/Delete buttons.
+3. User selects a grade for each subject.
+4. Based on the selected grades and credit hours, CGPA is calculated in real time.
+5. All data is handled in the frontend using React state only (no database or API).
+
+---
+
+## 👨‍💻 Author
+
+- Developed by [Asma Ehsan](https://github.com/Asma-Ehsan)
+- Internship Project @ UDevs
+
+---
+
+## 🤝 Collaborators
+
+- [usama228](https://github.com/usama228) – UDevs CEO & Mentor
+
