@@ -15,14 +15,6 @@ A fully frontend React-based application that allows students to manage their su
 
 ---
 
-## 🔗 Live Demo
-
-👉[Click here to view the live project](https://asma-ehsan.github.io/subject-cgpa-management/)
-
-
->
-
----
 
 ## 🧠 How It Works
 
